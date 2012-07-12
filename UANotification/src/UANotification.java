@@ -50,7 +50,7 @@ public class UANotification {
 		
 		p.addDeviceToken("58dbb6334b65ef03a07fddf00969ba7ddd77d45492eb4746eff7f2909c40ed90");
 		
-		p.setMessage("Kannan Testing From UA");
+		p.setMessage("Kannan Testing again From UA");
 		
 		/*
 		Calendar scheduleFor = Calendar.getInstance();
